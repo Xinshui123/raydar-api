@@ -1,6 +1,5 @@
 import json
 import requests
-from concurrent.futures import ThreadPoolExecutor
 from bs4 import BeautifulSoup
 
 area_dict = {
